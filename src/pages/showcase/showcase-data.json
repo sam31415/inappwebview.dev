@@ -223,5 +223,29 @@
     "website": "https://ente.io/",
     "longDescription": "Ente's Authenticator app helps you generate and store 2 step verification (2FA) tokens on your mobile devices.\n\nFEATURES\n\nSECURE BACKUPS\nAuth provides end-to-end encrypted cloud backups so that you don't have to worry about losing your tokens. We use the same protocols Ente Photos uses to encrypt and preserve your data.\n\nMULTI DEVICE SYNC\nAuth will automatically sync the 2FA tokens you add to your account, across all your devices. Every new device you sign into will have access to these tokens.\n\nWEB ACCESS\nYou can access your 2FA tokens on any device by using https://auth.ente.io.\n\nOFFLINE MODE\nAuth generates 2FA tokens offline, so your network connectivity will not get in the way of your workflow.\n\nIMPORT AND EXPORT\nYou can add tokens to ente by one of the following methods:\n- Scanning a QR code\n- Manually entering (copy-pasting) a 2FA secret\n- Bulk importing from a file that contains a list of codes in the following format:\n\notpauth://totp/provider.com:you@email.com?secret=YOUR_SECRET\n\nThe codes maybe separated by new lines or commas.\n\nYou can also export the codes you have added to ente, to an unencrypted text file, that adheres to the above format.\n\nTERMS\nhttps://ente.io/terms",
     "usedFor": "To render web content in various sections of the app"
+  },
+  {
+  	"appName": "Cellular Worlds",
+  	"insertDate": "2025-05-03T23:04:46.379Z",
+  	"icon": "https://github.com/user-attachments/assets/84857520-3107-4a30-bab2-dad3c809796e",
+  	"platforms": [
+  		"mobile"
+  	],
+  	"shortDescription": "Observe and create stunning animations with cellular automata.",
+  	"screenshots": [
+  		"https://github.com/user-attachments/assets/7a13bed3-a585-4f52-8a9e-1fe9d326df54",
+  		"https://github.com/user-attachments/assets/853269cc-a100-4f45-8a51-5cdba73c4a6a",
+  		"https://github.com/user-attachments/assets/b70ae995-0046-42c7-b31c-dcf23e84891e",
+  		"https://github.com/user-attachments/assets/d0779f47-5d72-4650-b65b-048ac90cfa43",
+  		"https://github.com/user-attachments/assets/a2bac144-b7ff-409c-b7a7-08322028aa65",
+  		"https://github.com/user-attachments/assets/5466c7ce-ca93-4aaf-ab53-5331dd76ac16",
+  		"https://github.com/user-attachments/assets/0265111d-f1f1-4e74-a598-de833ac3db77"
+  	],
+  	"googlePlayStore": "https://play.google.com/store/apps/details?id=io.sam31415.cellular_worlds",
+  	"appleAppStore": "",
+  	"sourceCode": "",
+  	"website": "https://github.com/sam31415/cellular-worlds-public/discussions/",
+  	"longDescription": "Explore the beauty of cellular automata with Cellular Worlds, an app where simple rules give rise to mesmerising animations. Sit back and relax as patterns unfold, or get hands-on and fine-tune the rules, palettes, and styles to your liking.\n\nObserve – Watch the generative animations evolve in real time.\nCustomise – Pick from a large collection of configurations to shape the visuals.\nTouch – Interact with animations and see how they respond.\nShare – Record GIFs to save and share your creations.\n\nCreate – Design new rules, craft unique palettes, and discover interesting seeds.\nPersonalise – Import and export all custom settings as JSON for easy sharing.\nLearn – An extensive help section describes the algorithms and all the app’s features.",
+  	"usedFor": "To display an html canvas on which the javascript backend code is drawing."
   }
 ]
